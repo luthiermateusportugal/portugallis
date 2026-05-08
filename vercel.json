@@ -1,9 +1,14 @@
 {
+  "version": 2,
   "cleanUrls": false,
-  "rewrites": [
+  "rules": [
     {
-      "source": "/ads.txt",
-      "destination": "/ads.txt"
+      "src": "/ads.txt",
+      "dest": "/ads.txt",
+      "continue": false
     }
+  ],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/$1" }
   ]
 }
