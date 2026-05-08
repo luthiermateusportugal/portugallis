@@ -1,14 +1,13 @@
 {
   "version": 2,
   "cleanUrls": false,
-  "rules": [
+  "routes": [
     {
       "src": "/ads.txt",
-      "dest": "/ads.txt",
-      "continue": false
+      "dest": "/ads.txt"
+    },
+    {
+      "handle": "filesystem"
     }
-  ],
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/$1" }
   ]
 }
