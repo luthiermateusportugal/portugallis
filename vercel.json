@@ -1,15 +1,5 @@
 {
-  "routes": [
-    {
-      "src": "/ads\\.txt",
-      "dest": "/ads.txt"
-    },
-    {
-      "handle": "filesystem"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "rewrites": []
 }
