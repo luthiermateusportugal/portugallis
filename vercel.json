@@ -1,5 +1,10 @@
 {
-  "cleanUrls": false,
-  "trailingSlash": false,
-  "rewrites": []
+  "cleanUrls": true,
+  "framework": null,
+  "rewrites": [
+    {
+      "source": "/ads.txt",
+      "destination": "/ads.txt"
+    }
+  ]
 }
