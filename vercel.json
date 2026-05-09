@@ -1,9 +1,15 @@
 {
-  "cleanUrls": false,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/ads.txt",
-      "destination": "/ads.txt"
+      "src": "/ads\\.txt",
+      "dest": "/ads.txt"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
