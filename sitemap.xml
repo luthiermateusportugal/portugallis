@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- HOME / INDEX -->
+  <url>
+    <loc>https://portugallis.com/index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://portugallis.com/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portugallis.com/english.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://portugallis.com/espanol.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portugallis.com/ITALIANO.html"/>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- EDUCACIONAL / AULAS -->
+  <url>
+    <loc>https://portugallis.com/aulas-gratis-do-luthier.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://portugallis.com/aulas-gratis-do-luthier.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portugallis.com/free-luthier-classes.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://portugallis.com/Lecciones de Luthier Gratis.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portugallis.com/Lezioni Gratuite di Liuteria.html"/>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- REPARO E MANUTENÇÃO -->
+  <url>
+    <loc>https://portugallis.com/reparo-e-manutencao.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://portugallis.com/reparo-e-manutencao.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portugallis.com/repair.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://portugallis.com/reparacion.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portugallis.com/riparazione.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- FABRICAÇÃO E CONSTRUÇÃO -->
+  <url>
+    <loc>https://portugallis.com/fabricacao.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://portugallis.com/fabricacao.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://portugallis.com/fabricacion.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portugallis.com/Costruzione.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- CONTATO -->
+  <url>
+    <loc>https://portugallis.com/contato.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://portugallis.com/contato.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portugallis.com/Contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://portugallis.com/contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portugallis.com/contati.html"/>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- DÚVIDAS E DICAS -->
+  <url>
+    <loc>https://portugallis.com/duvidasedicas.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://portugallis.com/duvidasedicas.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://portugallis.com/dudas.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portugallis.com/dubbi.html"/>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- OUTRAS PÁGINAS DA ESTRUTURA -->
+  <url><loc>https://portugallis.com/luteria.html</loc></url>
+  <url><loc>https://portugallis.com/luthier.html</loc></url>
+  <url><loc>https://portugallis.com/El Luthier.html</loc></url>
+  <url><loc>https://portugallis.com/Handmade.html</loc></url>
+  <url><loc>https://portugallis.com/Il Liutaio.html</loc></url>
+  <url><loc>https://portugallis.com/O Ateli do Luthier.html</loc></url>
+  <url><loc>https://portugallis.com/Parceiros.html</loc></url>
+  <url><loc>https://portugallis.com/partners.html</loc></url>
+  <url><loc>https://portugallis.com/Soci.html</loc></url>
+  <url><loc>https://portugallis.com/socios.html</loc></url>
+  <url><loc>https://portugallis.com/theluthier.html</loc></url>
+  <url><loc>https://portugallis.com/tips.html</loc></url>
+  <url><loc>https://portugallis.com/Professores de Msica.html</loc></url>
+
+</urlset>
